@@ -12,11 +12,16 @@ const experiences: Experience[] = [
 		duration: "2024 - Present",
 		description: "Leading development of B2b SaaS application",
 		achievements: [
-			"Led team of 8 developers",
-			"Implemented new features and fixes",
-			"Collaborated with cross-functional teams",
-			"Managed version control using Git",
-			"Participated in code reviews and code quality assurance",
+			"Leading the development of B2B SaaS product, ensuring high-quality deliverables within deadlines.",
+			"Collaborating with cross-functional teams to define, design, and ship new features.",
+			"Managing and mentoring a team of developers, fostering a culture of learning and growth.",
+			"Conducting code reviews to maintain code quality, scalability, and adherence to best practices.",
+			"Coordinating with stakeholders to translate business requirements into technical solutions.",
+			"Ensuring responsive web design and cross-browser compatibility for web applications.",
+			"Successfully implemented scalable architectures using modern frameworks like React.js and Molecular Services.",
+			"Optimized application performance by leveraging React Hooks.",
+			"Improved team efficiency by introducing streamlined development workflows and continuous integration.",
+			"Created and maintained reusable npm libraries to standardize and streamline development across projects.",
 		],
 		technologies: [
 			"React",
@@ -39,11 +44,12 @@ const experiences: Experience[] = [
 		duration: "2023 - 2024",
 		description: "Leading development of B2b SaaS application",
 		achievements: [
-			"Led team of 8 developers",
-			"Implemented new features and fixes",
-			"Collaborated with cross-functional teams",
-			"Managed version control using Git",
-			"Participated in code reviews and code quality assurance",
+			"Designed and implemented modern UI solutions, improving user engagement.",
+			"Collaborated closely with stakeholders to translate business requirements into technical deliverables.",
+			"Enhanced application performance by optimizing Redux state management and implementing modular components.",
+			"Guided front-end team to construct adaptable user interfaces with React.js, improving UI efficiency and user engagement.",
+			"Pioneered the development of a comprehensive component library in React, standardizing UI elements across projects and reducing development time.",
+			"Spearheaded the redesign of a client-facing web portal, employing advanced technologies such as React.js and Redux.",
 		],
 		technologies: [
 			"React",
@@ -70,9 +76,10 @@ const experiences: Experience[] = [
 		duration: "2022 - 2023",
 		description: "Development of B2b SaaS application",
 		achievements: [
-			"Implemented new features and fixes",
-			"Collaborated with cross-functional teams",
-			"Managed version control using Git",
+			"Developed responsive user interfaces ensuring cross-platform compatibility.",
+			"Debugged and refactored legacy code, significantly improving application efficiency.",
+			"Collaborated with designers and back-end developers to deliver seamless user experiences.",
+			"Implemented cross-platform UI features using modern JavaScript frameworks and APIs, streamlining user interaction.",
 		],
 		technologies: [
 			"React",
@@ -93,9 +100,11 @@ const experiences: Experience[] = [
 		duration: "2021 - 2022",
 		description: "Support and Development of B2b SaaS application",
 		achievements: [
-			"Implemented new features and fixes",
-			"Collaborated with cross-functional teams",
-			"Managed version control using Git",
+			"Provided technical support and maintenance for web applications, minimizing system downtime.",
+			"Improved system usability by identifying and resolving performance bottlenecks.",
+			"Implemented new features and fixes.",
+			"Collaborated with cross-functional teams.",
+			"Managed version control using Git.",
 		],
 		technologies: [
 			"React",
@@ -116,7 +125,8 @@ const experiences: Experience[] = [
 		duration: "2020 - 2021",
 		description: "On-call sales/cross-sales/upsells and upgrade support",
 		achievements: [
-			"Participated in on-call sales/cross-sales/upsells and upgrade support",
+			"On-call sales/cross-sales/upsells and upgrade support",
+			"Worked on on-call sales/cross-sales/upsells and upgrade support",
 		],
 	},
 	{
@@ -126,9 +136,11 @@ const experiences: Experience[] = [
 		duration: "2018 - 2020",
 		description: "Email support and chat support over social media",
 		achievements: [
-			"Worked as a part of the team that provided email support for B2c e-commerce website",
-			"Worked as a part of the team that provided chat support over x(formelry twitter) and facebook for B2c e-commerce website",
-			"Worked as a part of the team that provided chat support for an International Telecom provider",
+			"Worked as a part of the team that provided email support for a B2C e-commerce website.",
+			"Worked as a part of the team that provided chat support over X (Twitter) and Facebook for a B2C e-commerce website.",
+			"Worked as a part of the team that provided chat support for an international telecom provider.",
+			"Spearheaded a service enhancement initiative that increased customer satisfaction scores by 20% through comprehensive staff training and process streamlining, utilizing CRM software to manage and track over 5,000 customer interactions monthly.",
+			"Led a team of junior representatives to achieve a 30% reduction in average handling time by implementing strategic workflow optimizations and leveraging customer feedback analytics for continuous improvement.",
 		],
 	},
 	{
@@ -138,7 +150,8 @@ const experiences: Experience[] = [
 		duration: "2017 - 2017",
 		description: "On-call support for an International Insurance Company",
 		achievements: [
-			"Worked as a part of the team that provided support for claims support for an International Insurance Company",
+			"Executed accurate claims processing for an international insurance company using CRM systems and documentation tools, ensuring policyholder satisfaction.",
+			"Collaborated with cross-functional teams to refine customer interaction protocols, achieving a 30% increase in first-call resolution rates and enhancing overall customer satisfaction scores by utilizing CRM systems and feedback analysis tools.",
 		],
 	},
 ];
